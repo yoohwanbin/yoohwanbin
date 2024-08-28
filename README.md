@@ -1,6 +1,6 @@
 ### 👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pfopcom3ygu2squf5awfc2fha4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=5b3ba5&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31pfopcom3ygu2squf5awfc2fha4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pfopcom3ygu2squf5awfc2fha4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1c1717&interchange=false&bar_color=6b0b8e&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pfopcom3ygu2squf5awfc2fha4&redirect=true)
 ---
 <!--
 **yoohwanbin/yoohwanbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
